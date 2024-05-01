@@ -2,3 +2,4 @@ streamlit
 streamlit-chat
 opencv-python
 streamlit-authenticator
+streamlit-chat

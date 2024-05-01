@@ -1,0 +1,6 @@
+[theme]
+# primary_color = "#FF0000"
+# secondary_color = "#00FF00"
+
+[server]
+port = 9000
